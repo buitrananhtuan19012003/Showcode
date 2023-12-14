@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae50e050c7cb9cc4d8fec25ef931ee14, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  WeaponType: 1
+  WeaponName: Pistol
+  Icon: {fileID: 2144854436259016760, guid: eea26f7eebfa1e4459c26d1a2a5c655e, type: 3}
+  Model: {fileID: 7826245830978529317, guid: c6291e4fcdfd3cf4aab8a88477a196ce, type: 3}
+  rangedDamage: 21212
+  fireRate: 0
+  accuracy: 0
+  ammoType: 5
+  magazineSize: 6
+  reloadTime: 0.5
+  meleeDamage: 0
+  swingSpeed: 0
+  value: 0

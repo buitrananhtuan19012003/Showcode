@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b207244538b2374e879f617d3c6ab24, type: 3}
+  m_Name: No02_Ultraroid
+  m_EditorClassIdentifier: 
+  CharacterName: Ultraroid
+  CharacterClass: The Robot
+  Species: 2
+  BodyType: 0
+  CharacterIcon: {fileID: 0}
+  CharacterModel: {fileID: 0}
+  CharacterDescription: Experimental robotic creation with powerful energy capabilities,
+    seeking to understand human emotions and experiences.
+  Health: 75
+  Power: 5
+  Defence: 5
+  Agility: 5
+  HitPoint: 5
+  ExecutionSkillTime: 0
+  CooldownSkillTime: 0
+  SpecialSkillName: Ultra Beam
+  SpecialSkillIcon: {fileID: 0}
+  SpecialSkillDescription: Ultrabot charges a powerful Ultra Beam using his shield
+    and HP.
+  ListSkin: []
